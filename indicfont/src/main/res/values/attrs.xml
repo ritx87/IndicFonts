@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FontFamily">
+        <attr name="indic_fonts" format="enum">
+
+            //Bengali-HindiSiliguri
+            <enum name="HindSiliguri_Bold" value="0" />
+            <enum name="HindSiliguri_Light" value="1" />
+            <enum name="HindSiliguri_Medium" value="2" />
+            <enum name="HindSiliguri_Regular" value="3" />
+            <enum name="HindSiliguri_SemiBold" value="4" />
+
+            //Bengali-Atma
+            <enum name="Atma_Bold" value="5" />
+            <enum name="Atma_Light" value="6" />
+            <enum name="Atma_Medium" value="7" />
+            <enum name="Atma_Regular" value="8" />
+            <enum name="Atma_SemiBold" value="9" />
+
+            //Bengali-Galada
+            <enum name="Galada_Regular" value="10" />
+
+            //Bengali-BalooDa
+            <enum name="BalooDa_Regular" value="11" />
+
+            //Bengali-Mina
+            <enum name="Mina_Bold" value="12" />
+            <enum name="Mina_Regular" value="13" />
+
+            //Odia-BalooBhaina
+            <enum name="BalooBhaina_Regular" value="14" />
+
+
+        </attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IndicFont</string>
+
+    <string-array name="fonts">
+
+        <item>HindSiliguri-Bold.ttf</item>
+        <item>HindSiliguri-Light.ttf</item>
+        <item>HindSiliguri-Medium.ttf</item>
+        <item>HindSiliguri-Regular.ttf</item>
+        <item>HindSiliguri-SemiBold.ttf"</item>
+
+        <item>Atma-Bold.ttf</item>
+        <item>Atma-Light.ttf</item>
+        <item>Atma-Medium.ttf</item>
+        <item>Atma-Regular.ttf</item>
+        <item>Atma-SemiBold.ttf</item>
+
+        <item>Galada-Regular.ttf</item>
+
+        <item>BalooDa-Regular.ttf</item>
+
+        <item>Mina-Bold.ttf</item>
+        <item>Mina-Regular.ttf</item>
+
+        <item>BalooBhaina-Regular.ttf</item>
+
+    </string-array>
+</resources>
